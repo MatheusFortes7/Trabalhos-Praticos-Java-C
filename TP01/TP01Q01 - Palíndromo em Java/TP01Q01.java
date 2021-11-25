@@ -13,7 +13,6 @@ class TP01Q01 {
                 i = s.length(); // terminando a funcao, com a condição de parada
             }
         }
-
         return resp;
     }
 
