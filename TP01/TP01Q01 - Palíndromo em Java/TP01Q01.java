@@ -10,7 +10,7 @@ class TP01Q01 {
                 resp = true;
             } else {
                 resp = false;
-                i = s.length(); // terminando a funcao, com a condição de parada
+                i = s.length(); 
             }
         }
         return resp;
