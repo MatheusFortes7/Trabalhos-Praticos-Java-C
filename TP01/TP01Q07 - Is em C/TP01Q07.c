@@ -90,10 +90,9 @@ int main(){
     do{
         scanf(" %[^\n]s", entrada[numEntrada]);
     } while (isFim(entrada[numEntrada++]) == false);
-    numEntrada--; // Desconsiderar ultima linha contendo a palavra FIM
+    numEntrada--;
 
-    // Para cada linha de entrada, gerando uma de saida contendo o numero de letras
-    // maiusculas da entrada
+    // Para cada linha de entrada, gerando uma de saida contendo o numero de letras maiusculas da entrada
     for (int i = 0; i < numEntrada; i++){
         isVogal(entrada[i]);
         printf(" ");
