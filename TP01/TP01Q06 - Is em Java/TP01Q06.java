@@ -89,7 +89,7 @@ class TP01Q06{
         do {
            entrada[numEntrada] = MyIO.readLine();
         } while (isFim(entrada[numEntrada++]) == false);
-        numEntrada--;   //Desconsiderar ultima linha contendo a palavra FIM
+        numEntrada--;  
   
         //Para cada linha de entrada, gerando uma de saida contendo o numero de letras maiusculas da entrada
         for(int i = 0; i < numEntrada; i++){
