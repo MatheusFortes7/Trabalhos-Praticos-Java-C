@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <string.h>
 
-bool isFim(char s[]){
+bool isFim(char s[]){ //funcao para parar de ler a entrada quando na linha tiver somente a palavra fim
     return (strlen(s) == 3 && s[0] == 'F' && s[1] == 'I' && s[2] == 'M');
 }
 
