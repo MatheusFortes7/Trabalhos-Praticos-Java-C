@@ -58,7 +58,7 @@ class interpreter {
     public void posicaoPlusPlus(int i) {
         this.posicao = posicao + i;
     }
-} // fim interpreter
+} 
 
 public class TP01Q05 {
 
@@ -132,7 +132,7 @@ public class TP01Q05 {
         Scanner input = new Scanner(System.in);
         interpreter interpreter = new interpreter();
 
-        // setando os operandos
+        
         int numOperandos = input.nextInt();
         while (numOperandos != 0) {
             int[] operandos = new int[3];
