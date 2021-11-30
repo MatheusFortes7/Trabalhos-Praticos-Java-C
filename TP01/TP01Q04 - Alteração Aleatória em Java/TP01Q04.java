@@ -14,7 +14,7 @@ class TP01Q04 {
         aleatorio2 = ((char)('a' + (Math.abs(gerador.nextInt() % 26))));
 
         for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == aleatorio2){ //FALTA ESSA PARTE AQUI Ó <------
+            if(s.charAt(i) == aleatorio2){
                 resp = resp + (char)(aleatorio);
             } else {
                 resp = resp + (char)(s.charAt(i));
@@ -35,8 +35,7 @@ class TP01Q04 {
         } while (isFim(entrada[numEntrada++]) == false);
         numEntrada--; // Desconsiderar ultima linha contendo a palavra FIM
 
-        // Para cada linha de entrada, gerando uma de saida contendo o numero de letras
-        // maiusculas da entrada
+        // Para cada linha de entrada, gerando uma de saida contendo o numero de letras maiusculas da entrada
         for (int i = 0; i < numEntrada; i++) {
             MyIO.println(trocarLetras(entrada[i], gerador));
         }
