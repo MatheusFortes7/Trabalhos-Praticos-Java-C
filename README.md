@@ -2,11 +2,11 @@ Meus códigos feito durante a matéria de AEDs 2.
 
 Exercicios feitos em Java e em C
   
-- Pesquisas<br>
+- #Pesquisas<br>
   * Pesquisa binária<br>
   * Pesquisa Sequencial<br>
   
-- Estruturas de dados básicas lineares <br>
+- ##Estruturas de dados básicas lineares <br>
   * Pilha<br>
   * Lista<br>
   * Lista ordenada<br>
