@@ -1,6 +1,23 @@
 Meus códigos feito durante a matéria de AEDs 2.
 
 Exercicios feitos em Java e em C
+  
+- Pesquisas<br>
+  Pesquisa binária<br>
+  Pesquisa Sequencial<br>
+  
+- Estruturas de dados básicas lineares <br>
+  Pilha<br>
+  Lista<br>
+  Lista ordenada<br>
+  Fila<br>
+
+- Estruturas de dados básicas flexíveis <br>
+  * Fila<br> 
+  * Lista Dupla<br>
+  * Lista Simples<br>
+  * Matriz<br>
+
 
 - Ordenação em memória principal <br>
   MergeSort<br>
@@ -11,18 +28,6 @@ Exercicios feitos em Java e em C
   InsertionSort<br>
   SelectionSort<br>
   ShellSort<br>
-  
-- Estruturas de dados básicas lineares <br>
-  Pilha<br>
-  Lista<br>
-  Lista ordenada<br>
-  Fila<br>
-
-- Estruturas de dados básicas flexíveis <br>
-  Fila<br> 
-  Lista Dupla<br>
-  Lista Simples<br>
-  Matriz<br>
 
 - Árvores binárias <br>
   Árvore de Árvore<br>
