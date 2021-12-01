@@ -13,10 +13,10 @@ Exercicios feitos em Java e em C
   Fila<br>
 
 - Estruturas de dados básicas flexíveis <br>
-  * Fila<br> 
-  * Lista Dupla<br>
-  * Lista Simples<br>
-  * Matriz<br>
+ * Fila<br> 
+ * Lista Dupla<br>
+ * Lista Simples<br>
+ * Matriz<br>
 
 
 - Ordenação em memória principal <br>
