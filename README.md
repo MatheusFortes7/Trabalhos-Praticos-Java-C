@@ -2,17 +2,17 @@ Meus códigos feito durante a matéria de AEDs 2.
 
 Exercicios feitos em Java e em C
   
-- ## Pesquisas - TP2<br>
+- ## Pesquisas - *TP2*<br>
   * Pesquisa binária<br>
   * Pesquisa Sequencial<br>
   
-- ## Estruturas de dados básicas lineares - TP2<br>
+- ## Estruturas de dados básicas lineares - **TP2**<br>
   * Pilha<br>
   * Lista<br>
   * Lista ordenada<br>
   * Fila<br>
 
-- ## Estruturas de dados básicas flexíveis - TP2 <br>
+- ## Estruturas de dados básicas flexíveis - [TP2] <br>
   * Fila<br> 
   * Lista Dupla<br>
   * Lista Simples<br>
