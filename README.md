@@ -1,6 +1,6 @@
 Meus códigos feito durante a matéria de AEDs 2.
 
-Exercicios feitos em Java e em C
+# Exercicios feitos em Java e em C
   
 - ## Pesquisas - *TP2*<br>
   * Pesquisa binária<br>
