@@ -1,5 +1,7 @@
 # Exercicios feitos em Java e em C
   
+  Matérias utilizadas nos trabalhos:
+  
 - ## Pesquisas - *TP2*<br>
   * Pesquisa binária<br>
   * Pesquisa Sequencial<br>
