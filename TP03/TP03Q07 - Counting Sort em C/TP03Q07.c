@@ -67,15 +67,6 @@ char *ler_html(char filename[]) {
     html[tam] = '\0';
     return html;
 }
-
-/**
- * @brief Extrai os textos de uma tag html.
- * 
- * @param html Ponteiro para o caractere que abre a tag '<'.
- * @param texto Ponteiro para onde o texto deve ser colocado.
- * 
- * @return Ponteiro para o texto extraído.
- */
 char *extrair_texto(char *html, char *texto) {
     char *start = texto;
     int contagem = 0;
