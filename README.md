@@ -44,5 +44,5 @@
   * Árvore RubroNegra(Red/Black)<br>
 
 - ## Tabelas HASH - *TP4* <br>
-  * <br>
+  * Hash Direto Reserva<br>
   * <br>
