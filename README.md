@@ -4,6 +4,7 @@
   
 - ## MyIO - *Todos os TPs*<br>
   * Classe utílizada em todos os tps<br>
+    - classe utilizada para leitura e escrita
   
 - ## Pesquisas - *TP2*<br>
   * Pesquisa binária<br>
