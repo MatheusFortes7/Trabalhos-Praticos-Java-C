@@ -43,3 +43,6 @@
   * Árvore AVL<br>
   * Árvore RubroNegra(Red/Black)<br>
 
+- ## Tabelas HASH - *TP4* <br>
+  * <br>
+  * <br>
