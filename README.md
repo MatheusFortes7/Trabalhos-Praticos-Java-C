@@ -45,4 +45,4 @@
 
 - ## Tabelas HASH - *TP4* <br>
   * Hash Direto Reserva<br>
-  * <br>
+  * Hash Direto ReHash<br>
