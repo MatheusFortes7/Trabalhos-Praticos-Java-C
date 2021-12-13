@@ -2,6 +2,9 @@
   
   Matérias utilizadas nos trabalhos:
   
+- ## MyIO - *Todos os TPs*<br>
+  * Classe utílizada em todos os tps<br>
+  
 - ## Pesquisas - *TP2*<br>
   * Pesquisa binária<br>
   * Pesquisa Sequencial<br>
