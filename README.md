@@ -43,7 +43,7 @@
   * Árvore AVL<br>
   * Árvore RubroNegra(Red/Black)<br>
 
-- ## Tabelas HASH - *TP4* <br>
+- ## Tabelas Hash - *TP4* <br>
   * Hash Direto Reserva<br>
   * Hash Direto ReHash<br>
   * Hash Direto Lista Simples<br>
